@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+div{
+    background-color: rgb(47, 47, 48);
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+p{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+img{
+    border-radius: 100px;
+}
+
+.mycontact{
+    border: 10px;
+}
